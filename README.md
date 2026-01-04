@@ -1,17 +1,57 @@
-# E-commerce Testing Project
+# E-commerce Website Testing Project
 
-This project contains Manual Testing, Selenium Automation,
-and API Testing for an E-commerce website.
+## 📌 Project Overview
+This is a complete E-commerce Testing project created as a fresher-level portfolio.
+The project covers Manual Testing, API Testing, and Selenium Automation.
 
-## Tools Used
+The application tested is a demo E-commerce website.
+
+## 🌐 Website Tested
+https://demowebshop.tricentis.com
+
+---
+
+## 🧪 Manual Testing
+- Created detailed manual test cases using Excel
+- Covered major modules:
+  - Registration
+  - Login
+  - Product Search
+  - Add to Cart
+  - Checkout
+  - Logout
+- Test cases are available in the `Manual_Testing` folder
+
+---
+
+## 🔗 API Testing
+- Performed API testing using Postman
+- Tested GET and POST methods
+- Validated status codes and response data
+- API result screenshots are available in the `API_Testing` folder
+
+---
+
+## 🤖 Selenium Automation
+- Automated core E-commerce flows using Selenium WebDriver with Java
+- Automated scenarios:
+  - Browser launch
+  - Login
+  - Product search
+  - Add to cart
+- Selenium project is available as a ZIP file in the `Selenium_Automation` folder
+
+---
+
+## 🛠 Tools & Technologies Used
 - Manual Testing (Excel)
-- Selenium with Java
+- Selenium WebDriver
+- Java
 - API Testing (Postman)
+- GitHub
 
-## Modules Covered
-- Login
-- Search Product
-- Add to Cart
-- Checkout
-- Logout
-- API GET and POST methods
+---
+
+## 👤 Author
+Abdul Wahidu
+
